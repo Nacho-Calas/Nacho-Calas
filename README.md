@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nacho-calas&label=Profile%20views&color=0e75b6&style=flat" alt="nacho-calas" /> </p>
 
-- 🔭 I’m currently working on [PECF](https://github.com/PECF/PECF_FRONTEND)
+- 🔭 I’m currently working on [PECF](https://github.com/PECF/PECF_FRONTEND) as a side proyect
 
 - 🌱 I’m currently learning **NextJs 12 and 13, FireBase and Typescript**
 
