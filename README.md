@@ -1,4 +1,3 @@
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFRFnwJEAk&#x2F;view?utm_content=DAFRFnwJEAk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">GitHub Banner</a> de Nacho Calás
 <h1 align="center">Hi 👋, I'm Nacho</h1>
 <h3 align="center">An emerging Full Stack Developer from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif"
