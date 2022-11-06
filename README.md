@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFRFnwJEAk/view)
+[![MasterHead](https://www.canva.com/design/DAFRFnwJEAk/view)]
 <h1 align="center">Hi 👋, I'm Nacho</h1>
 <h3 align="center">An emerging Full Stack Developer from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif"
