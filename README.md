@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJs 12 and 13, FireBase and Typescript**
 
-- 👨‍💻 All of my projects are available at **Portfolio be ready soon**
+- 👨‍💻 All of my projects are available at https://calas-portfolio.vercel.app/
 
 - 💬 Ask me about **React, JavaScript,**
 
