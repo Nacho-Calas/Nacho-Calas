@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nacho</h1>
-<h3 align="center">An emerging Full Stack Developer from Argentina</h3>
+<h3 align="center">A Full Stack Developer from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nacho-calas&label=Profile%20views&color=0e75b6&style=flat" alt="nacho-calas" /> </p>
 
-- 🔭 I’m currently working on [PECF](https://github.com/PECF/PECF_FRONTEND) as a side proyect
+- 🔭 I’m currently working on Qubik 
 
-- 🌱 I’m currently learning **NextJs 12 and 13, FireBase and Typescript**
+- 🌱 I’m studying hard to master my knolegde in *TypeScript, React, NodeJs*
 
-- 👨‍💻 All of my projects are available at https://calas-portfolio.vercel.app/
+- 👨‍💻 Some of my projects are available at https://calas-portfolio.vercel.app/
 
-- 💬 Ask me about **React, JavaScript,**
+- 💬 Ask me about **React, Typescript, NodeJs**
 
 - 📫 How to reach me **nachocalas1@gmail.com**
 
