@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nacho-calas&show_icons=true&locale=en&layout=compact" alt="nacho-calas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nacho-calas&show_icons=true&locale=en" alt="nacho-calas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nacho-calas&" alt="nacho-calas" /></p>
