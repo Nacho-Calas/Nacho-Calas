@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nacho-calas&label=Profile%20views&color=0e75b6&style=flat" alt="nacho-calas" /> </p>
 
-- 🔭 I’m currently working on JemerSoft 
+- 🔭 I’m currently working in JemerSoft 
 
 - 🌱 I’m studying hard to master my knolegde in *TypeScript, React, NodeJs*
 
