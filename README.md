@@ -8,8 +8,6 @@
 
 - 🌱 I’m studying hard to master my knolegde in *TypeScript, React, NodeJs*
 
-- 👨‍💻 Some of my projects are available at https://calas-portfolio.vercel.app/
-
 - 💬 Ask me about **React, Typescript, NodeJs**
 
 - 📫 How to reach me **nachocalas1@gmail.com**
